@@ -18,7 +18,6 @@ export const personalInfo: PersonalInfo = {
   initials: 'BM',
   title: 'Full-Stack Laravel Developer',
   subtitle: 'Backend-Focused',
-  /*bio: 'Full-Stack Laravel Developer (Backend-Focused) with strong experience building scalable business systems, RESTful APIs, and interactive dashboards using Laravel, JavaScript, MySQL, and Redis.',*/
   fullBio:
     'Full-Stack Laravel Developer with a passion for building scalable, high-performance web applications. I specialize in designing robust backend architectures, RESTful APIs, and business automation systems. With experience across multiple industries including e-commerce, logistics, academia, and government sectors, I deliver solutions that make a real impact. Skilled in clean architecture, TDD, and performance optimization to ensure maintainable and reliable code.',
   location: 'Cairo, Egypt',
