@@ -18,8 +18,12 @@ export const personalInfo: PersonalInfo = {
   initials: 'BM',
   title: 'Full-Stack Laravel Developer',
   subtitle: 'Backend-Focused',
+
+  bio: 'Full-Stack Laravel Developer specializing in scalable web applications and backend systems.',
+
   fullBio:
-    'Full-Stack Laravel Developer with a passion for building scalable, high-performance web applications. I specialize in designing robust backend architectures, RESTful APIs, and business automation systems. With experience across multiple industries including e-commerce, logistics, academia, and government sectors, I deliver solutions that make a real impact. Skilled in clean architecture, TDD, and performance optimization to ensure maintainable and reliable code.',
+    'Full-Stack Laravel Developer with a passion for building scalable...',
+
   location: 'Cairo, Egypt',
   phone: '+201003864413',
   email: 'mattar.bader99@gmail.com',
